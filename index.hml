@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>EXTREME 120</title>
+<style>
+body{font-family:Arial;background:#f2f2f2;padding:40px;}
+.box{background:white;padding:20px;border-radius:10px;max-width:700px;margin:auto;box-shadow:0 0 10px rgba(0,0,0,0.2);}
+h1{text-align:center;}
+table{width:100%;border-collapse:collapse;}
+td{border:1px solid #ccc;padding:8px;}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h1>EXTREME 120</h1>
+
+<table>
+<tr><td>Input Power</td><td>230V</td></tr>
+<tr><td>Frequency</td><td>50/60 Hz</td></tr>
+<tr><td>Rated input current</td><td>23 A</td></tr>
+<tr><td>Capacity</td><td>5.29 KVA</td></tr>
+<tr><td>No-load voltage</td><td>65 V</td></tr>
+<tr><td>Working voltage</td><td>24.8 V</td></tr>
+<tr><td>Welding current</td><td>20–120 A</td></tr>
+<tr><td>Duty cycle</td><td>20%</td></tr>
+<tr><td>Weight</td><td>3 kg</td></tr>
+</table>
+
+</div>
+
+</body>
+</html>
